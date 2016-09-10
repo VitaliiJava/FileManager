@@ -10,6 +10,8 @@ package com.learn.filemanager;
  * 5) Переименовывать директории и файлы
  * 6) Просматривать содержимое директории
  */
-public class FileManager {
+public class Main {
+    public static void main(String[] args) {
 
+    }
 }
